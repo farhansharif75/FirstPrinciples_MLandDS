@@ -3,7 +3,7 @@ Given a dataset of the form: $\lbrace y_{i}, x_{i1}, x_{i2}, \dots, x_{ip} \rbra
 ```math
 y_{i} = \theta_{0} + \theta_{1}x_{i1} + \dots + \theta_{p}x_{ip} + \epsilon_{i}.
 ```
-Or, in the language of linear algebra:
+Or, in matrix notation, as:
 ```math
 \mathbf{y} = \mathbf{X}\boldsymbol{\theta} + \boldsymbol{\epsilon}
 ```
