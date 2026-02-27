@@ -1,1 +1,0 @@
-We develop a Linear Regression model from scratch. We first cover the mathematical concepts underpinning the Linear Regression model and then translate these concepts to code. We then collect data via webscraping and deploy the model, thus covering a complete ene-to-end ML Engineering pipeline.
